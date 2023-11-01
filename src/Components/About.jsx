@@ -31,10 +31,9 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "DevOps",
-  "Community",
-  "3D Modeller",
-  "Cloud Computing",
+  "Competitive Programming",
+  "Web Development",
+  "Open Source",
   "Technical Content Writing",
   
 ];
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I have a passion for cloud computing and specialize in networking and cloud architecture.I am also a skilled 3D modeling expert and a Meta Spark AR Creator, with a talent for creating immersive and interactive experiences using the latest technologies.";
+  "Hello, I'm Parul Chaddha, a prefinal year B.tech(Information Technology) student at Banasthali Vidyapith. Aspiring software developer , I am passionate about full stack development, and I'm excited to contribute my skills and knowledge to drive innovation and success.";
 
 const About = () => {
   return (

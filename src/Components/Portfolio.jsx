@@ -31,35 +31,35 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Magic with Linux Commands",
+    title: "Airline Management System",
     description:
-      "Start using Linuc operating system that allows you to outperfrom your system with multiple customization options available.",
-    url: "https://dev.to/beingwizard/magic-with-linux-commands-47m1",
+      "The Airlines Management System is a Java application built using MySQL for data storage and AWT/Swing for the user interface.",
+    url: "https://github.com/parulchaddha/AirlineManagementSystem",
   },
   {
-    title: "Safeguarding Your Cloud Environment: A Comprehensive Approach to Cloud Security",
+    title: "People Counter using YOLO",
     description:
-      "AWS or any cloud has its multiple significance to build and create with but having a secure env is necessary, learn the steps before choosing any service.",
-    url: "https://dev.to/beingwizard/safeguarding-your-cloud-environment-a-comprehensive-approach-to-cloud-security-1g52",
+      "This project utilizes the YOLO object detection model to count the number of people moving in two directions within a video stream.",
+    url: "https://github.com/parulchaddha/People-Counter",
   },
   {
-    title: "Microsoft Cloud Skill Challenge",
+    title: "Car Counter using YOLO",
     description:
       "Empower Your Future: Get Certified through the Microsoft Cloud Skill Challenge",
-    url: "https://dev.to/beingwizard/empower-your-future-get-certified-through-the-microsoft-cloud-skill-challenge-mpd",
+    url: "https://github.com/parulchaddha/Car_Counter",
   },
   {
-    title: "Zero Shot Learning",
+    title: "PustakKosh",
     description:
       "AI Learns from the data that you input, but sometimes it doesn't need your data to make any decision.",
-    url: "https://www.linkedin.com/posts/wizardlocks_ai-data-learning-activity-7064072899871014912-WCT-?utm_source=share&utm_medium=member_desktop",
+    url: "https://github.com/parulchaddha/PustakKosh",
   },
 ];
 
 const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
-      <h2 style={{ textAlign: "center" }}>Articles</h2>
+      <h2 style={{ textAlign: "center" }}>Project</h2>
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
